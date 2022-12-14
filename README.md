@@ -11,6 +11,11 @@ javac IRemoteMath.java
 javac MathServer.java
 javac MathClient.java
 ```
+or to compile all
+```
+javac -d . *.java
+ ```
+
 
 ## RUN
 in terminal run
